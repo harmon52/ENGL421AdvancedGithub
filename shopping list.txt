@@ -1,5 +1,4 @@
 eggs
 bacon
 sugar
-milk
-chocolate
+chocolate milk
