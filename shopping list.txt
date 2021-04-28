@@ -1,5 +1,6 @@
 eggs
 bacon
+broccoli
+peanuts
 sugar
 milk
-chocolate
